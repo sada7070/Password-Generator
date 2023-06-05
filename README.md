@@ -1,1 +1,2 @@
 # Password-Generator
+This is a simple python code used to generate a password. Firstly it will ask for the number of letters we wish to include in, then number of symbols we wish to include in it and finally number of integer numbers to include in it. the remaining characters will be alphabets. After providing input we weill get two type of passsword, Easy one and Strong one. In Easy password, the arrangement of all characters will starts with letters followed by symbols and then numbers. In Strong password, the arrangement will be random.
